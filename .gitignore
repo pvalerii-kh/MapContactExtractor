@@ -58,3 +58,4 @@ venv.bak/
 # Scraped results
 *.csv
 *.xlsx
+session.json
